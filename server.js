@@ -21,6 +21,7 @@ useUnifiedTopology: true,
 useCreateIndex: true,
 useFindAndModify: false });
 
+require("./routes/htmlRoutes")(app)
 
 app.listen(PORT, () => {
   console.log(`App running on port ${PORT}!`);
