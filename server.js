@@ -22,6 +22,7 @@ useCreateIndex: true,
 useFindAndModify: false });
 
 require("./routes/htmlRoutes")(app)
+require("./routes/apiRoutes")(app)
 
 app.listen(PORT, () => {
   console.log(`App running on port ${PORT}!`);
