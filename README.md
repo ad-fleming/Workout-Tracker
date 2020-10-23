@@ -1,9 +1,10 @@
-# Workout-Tracker# Unit 17 Nosql Homework: Workout Tracker
+#  Workout Tracker
 
 Workout tracker allows users to add and track workouts on the fly and see workout analytics. This project tasked us with creating a Mongo database with a Mongoose schema to handle routes with Express.  Find the deployed site below.
 
 
 ## Images and Demo
+<hr>
 
 #### Homepage 
 ![Homepage](home-screen.png)
@@ -14,11 +15,17 @@ Workout tracker allows users to add and track workouts on the fly and see workou
 #### Demo
 ![Demo](demo.gif)
 
+<br>
 
 ## Contributors
-This project was completed with the instructional assistance of my tutor at the Georgia Tech Coding Bootcamp
+<hr>
+This project was completed with the instructional assistance of my tutor at the Georgia Tech Coding Boot Camp
+
+<br>
+<br>
 
 ## Links
+<hr>
 
 [Repo](https://github.com/ad-fleming/Workout-Tracker)
 
